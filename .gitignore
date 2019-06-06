@@ -1,0 +1,14 @@
+Intellij
+.idea/
+*.iml
+*.iws
+
+#ECLIPSE
+.classpath
+.project
+.settings
+
+# Maven
+log/
+logs/
+target/

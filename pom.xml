@@ -19,7 +19,7 @@
 		<java.version>11</java.version>
 
 		<!-- junit and mockito required to run the unit test -->
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<mockito.version>1.10.19</mockito.version>
 	</properties>
 
